@@ -1,0 +1,15 @@
+# Ignore everything...
+/*
+# ...except these
+!/.gitignore
+!/README.md
+!/bin/
+/bin/*
+!/bin/scripts/
+/bin/scripts/*
+!/bin/scripts/BLUPF90/
+!/bin/scripts/PopGen/
+/bin/scripts/BLUPF90/BLUPF90.GWAS.plots.7.24.2026.R
+/blue/frezende/gzayas97/For_UF/Sheep_Project/bin/scripts/Plot.gcta.R
+/blue/frezende/gzayas97/For_UF/Sheep_Project/bin/scripts/run_gwas_gcta.sh
+*.old.R

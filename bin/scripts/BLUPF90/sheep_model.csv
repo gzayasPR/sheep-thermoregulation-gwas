@@ -1,0 +1,10 @@
+﻿ColN,Name,What,Type
+1,TSU,GenoID,NA
+10,BREED,Fixed,cat
+11,BREED_LABEL,Fixed,cat
+12,MAX,Trait,cont
+13,AVE,Trait,cont
+14,REP,Fixed,cat
+15,FARM,Fixed,cat
+17,PC1,Fixed,cont
+18,PC2,Fixed,cont
